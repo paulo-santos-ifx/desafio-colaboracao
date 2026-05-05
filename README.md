@@ -58,6 +58,18 @@ Explorar diferentes elementos do Markdown, incluindo:
 
 ---
 
+## Exemplos de Links em Markdown
+
+### 🌐 Link simples
+[GitHub](https://github.com)
+
+---
+
+### Link com título (tooltip ao passar o mouse)
+[Visitar GitHub](https://github.com "Ir para o GitHub")
+
+---
+
 ## Checklist
 
 - [x] Markdown básico
